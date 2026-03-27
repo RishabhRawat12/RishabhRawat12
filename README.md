@@ -66,7 +66,7 @@ I care about how things work internally, not just making them work.
 
 ---
 
-## Selected Projects
+## Projects
 
 ### BloomLink — URL Shortener with Bloom Filter Optimization
 - Built a URL shortener using FastAPI with a focus on reducing unnecessary database access  
