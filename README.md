@@ -160,16 +160,12 @@ Most of my work revolves around **backend engineering**, **systems design**, and
 ## 📊 GitHub Activity & Contribution Heatmap
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=RishabhRawat12&theme=tokyo-night&hide_border=true&hide_title=false" alt="Contribution Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=RishabhRawat12&theme=tokyo-night&hide_border=true&bg_color=1a1a2e" alt="Contribution Activity Graph" />
 </div>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RishabhRawat12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RishabhRawat12&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhRawat12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RishabhRawat12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhRawat12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -181,15 +177,6 @@ Most of my work revolves around **backend engineering**, **systems design**, and
 - **Database Optimization** — Query optimization, indexing, Bloom Filters
 - **Problem Solving** — DSA, system design patterns, scalability
 - **Distributed Systems** — Consensus algorithms, eventual consistency
-
----
-
-## 🚀 Currently Learning
-
-- Distributed Systems & consensus algorithms
-- Advanced database optimization techniques
-- Rust for systems programming
-- Microservices architecture patterns
 
 ---
 
