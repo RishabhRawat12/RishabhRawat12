@@ -80,15 +80,15 @@ Most of my work revolves around **backend engineering**, **systems design**, and
 ```
                     ╔═════════════════════════════╗
                     ║     PROFICIENCY MATRIX      ║
-╔═══════════════════╠═════════════════════════════╣═══════════════════╗
-║ Backend Systems   ║ ████████████████████░░ 95%  ║ Primary Focus     ║
-║ Systems Design    ║ ███████████████████░░░ 90%  ║ Advanced          ║
-║ Database Design   ║ ██████████████████░░░░ 85%  ║ Advanced          ║
-║ Problem Solving   ║ ███████████████████░░░ 88%  ║ Advanced          ║
-║ Cloud & DevOps    ║ █████████████░░░░░░░░ 70%   ║ Intermediate      ║
-║ Frontend Dev      ║ ███████████░░░░░░░░░░ 60%   ║ Intermediate      ║
-║ Systems Prog      ║ ██████████░░░░░░░░░░░ 55%   ║ Learning          ║
-╚═══════════════════╩═════════════════════════════╩═══════════════════╝
+╔═══════════════════╠═════════════════════════════╣
+║ Backend Systems   ║ ████████████████████░░ 95%  ║
+║ Systems Design    ║ ███████████████████░░░ 90%  ║ 
+║ Database Design   ║ ██████████████████░░░░ 85%  ║ 
+║ Problem Solving   ║ ███████████████████░░░ 88%  ║ 
+║ Cloud & DevOps    ║ █████████████░░░░░░░░ 70%   ║ 
+║ Frontend Dev      ║ ███████████░░░░░░░░░░ 60%   ║ 
+║ Systems Prog      ║ ██████████░░░░░░░░░░░ 55%   ║
+╚═══════════════════╩═════════════════════════════╝
 ```
 
 ---
@@ -164,9 +164,6 @@ Most of my work revolves around **backend engineering**, **systems design**, and
 </div>
 
 <div align="center">
-  <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=RishabhRawat12&theme=tokyonight&hide_border=true" />
-  
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RishabhRawat12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
