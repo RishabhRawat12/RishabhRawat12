@@ -164,8 +164,15 @@ Most of my work revolves around **backend engineering**, **systems design**, and
 </div>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RishabhRawat12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhRawat12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=RishabhRawat12&theme=tokyonight&hide_border=true" />
+  
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RishabhRawat12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RishabhRawat12&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 </div>
 
 ---
